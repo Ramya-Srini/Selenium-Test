@@ -15,8 +15,8 @@ public class DemoSelenium {
 	
 	
 	public static void main(String[] args) {
-		System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+ "/driver/chromedriver");
-//	    System.out.println("usr.dir");
+		
+
 			
 		WebDriver driver = new ChromeDriver();
 		
